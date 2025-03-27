@@ -1,16 +1,8 @@
 # perplexity_clone
 
-A new Flutter project.
+Perplexity Clone
 
-## Getting Started
+Tech Stack:
+Frontend: Flutter Backend: FastAPI
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Perplexity Clone is a powerful AI-driven search and answer platform built with Flutter for the frontend and FastAPI for the backend. It delivers fast, accurate, and context-aware responses, providing users with an intuitive and efficient knowledge discovery experience. 🚀
